@@ -1,1 +1,35 @@
-{"profile":{"name":"typicode"}}
+{
+  "TypeWorkSet": [
+    {
+      "Id": 1,
+      "Name": "Labor"
+    },
+    {
+      "Id": 2,
+      "Name": "Módulo"
+    },
+    {
+      "Id": 3,
+      "Name": "Revisión Labor"
+    },
+    {
+      "Id": 4,
+      "Name": "Revisión Módulo"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
