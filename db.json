@@ -24,7 +24,7 @@
          "TypeWorkId":1,
          "IdWork":1,
          "NameTypeWork":"Ingeniería para el reemplazo de Transformador de Potencia Trifásico (230, 115, 57.5 / 34.5, 11.4 kV)",
-         "DetLab":[
+         "detLab":[
             {
                "IdActivity":1,
                "NameActivity":"Diseño cívil",
@@ -89,7 +89,7 @@
          "TypeWorkId":2,
          "IdWork":1,
          "NameTypeWork":"Ingeniería para el montaje de un nuevo módulo Transformador 230 kV - Configuración Barra Sencilla",
-         "DetLab":[
+         "detLab":[
             {
                "IdActivity":1,
                "NameActivity":"Diseño cívil",
@@ -154,7 +154,7 @@
          "TypeWorkId":1,
          "IdWork":2,
          "NameTypeWork":"Ingeniería para el reemplazo de Transformador o Autotransformador trifásico (230/115 kV)",
-         "DetLab":[
+         "detLab":[
             {
                "IdActivity":1,
                "NameActivity":"Diseño cívil",
@@ -219,7 +219,7 @@
          "TypeWorkId":2,
          "IdWork":2,
          "NameTypeWork":"Ingeniería para el montaje de un nuevo módulo Transformador 230 kV - Configuración Barra Doble",
-         "DetLab":[
+         "detLab":[
             {
                "IdActivity":1,
                "NameActivity":"Diseño cívil",
