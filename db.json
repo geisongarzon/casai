@@ -31,7 +31,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"888000"
+               "VrUnit":"888000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":1,
+                     "NameScopeSubactivity":"Levantamiento topográfico del sitio de ubicación del nuevo módulo dentro de la S/E."
+                  }
+                  ]
             },
             {
                "IdActivity":1,
@@ -39,7 +45,21 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"970000"
+               "VrUnit":"970000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":2,
+                     "NameScopeSubactivity":"Diseño civil de las bases de equipos de potencia y bases de pórticos en caso de requerirse una ampliación del existente."
+                  },
+                  {
+                     "IdScopeSubactivity":3,
+                     "NameScopeSubactivity":"Ampliación y/o construcción de la malla de puesta a tierra."
+                  },
+                  {
+                     "IdScopeSubactivity":4,
+                     "NameScopeSubactivity":"En caso de requerirse, diseño de refuerzo de la base de la base del transformador."
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -47,7 +67,21 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1000000"
+               "VrUnit":"1000000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":5,
+                     "NameScopeSubactivity":"Levantamiento y verificación dimensional del espacio disponible para ubicación del nuevo equipo. Verificación de distancias de seguridad a porticos y muros. Si el equipo a instalar no es nuevo debe incluirse el levantamiento de dimensiones básicas del transformador a instalar en la S/E donde se encuentre ubicado."
+                  },
+                  {
+                     "IdScopeSubactivity":6,
+                     "NameScopeSubactivity":"Levantamiento de la estructura de salida de cables de MT o conexión a pórtico de 34,5 kV (según aplique). Diseño mecánico con planos de taller de la nueva estructura y/o modificación de la conexión en caso de requerirse."
+                  },
+                  {
+                     "IdScopeSubactivity":7,
+                     "NameScopeSubactivity":"Levantamiento En casa de control y ubicación del tablero de regulación del nuevo transformador a instalar."
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -55,7 +89,13 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"1200000"
+               "VrUnit":"1200000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":8,
+                     "NameScopeSubactivity":"Diseño mecánico completo para instalación de nuevo transformador incluyendo: conexiones de PAT, conexiones de neutro, conexiones en potencia por AT y MT (incluyendo calibres de cables y conectores)."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -63,7 +103,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"5400000"
+               "VrUnit":"5400000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":9,
+                     "NameScopeSubactivity":"Levantamiento del gabinete de control del transformador (en caso que no sea un equipo nuevo) y diseño de conexiones al tablero de regulación."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -71,7 +117,13 @@
                "IdSubActivity":3,
                "NameSubactivity":"Diseño detallado, planos y Protocolo de energización según ingeniería realizada",
                "Cant":0,
-               "VrUnit":"6900000"
+               "VrUnit":"6900000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":10,
+                     "NameScopeSubactivity":"Diseño eléctrico para conexión del nuevo transformador y su integración al tablero de control y protección existente, incluyendo las señales a centro de control."
+                  }
+                  ]
             },
             {
                "IdActivity":4,
@@ -79,7 +131,13 @@
                "IdSubActivity":4,
                "NameSubactivity":"Elaboración de Planos AS BUILT",
                "Cant":0,
-               "VrUnit":"3500000"
+               "VrUnit":"3500000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Elaboración de planos ASBUILT de acuerdo a planos rojo-verde suministrados por CODENSA."
+                  }
+                  ]
             }
          ]
       },
@@ -96,7 +154,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"2078936"
+               "VrUnit":"2078936",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":1,
+                     "NameScopeSubactivity":"Levantamiento topográfico del sitio de ubicación del nuevo módulo dentro de la S/E."
+                  }
+                  ]
             },
             {
                "IdActivity":1,
@@ -104,7 +168,21 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"4472129"
+               "VrUnit":"4472129",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":2,
+                     "NameScopeSubactivity":"Diseño civil de las bases de equipos de potencia y bases de pórticos en caso de requerirse una ampliación del existente."
+                  },
+                  {
+                     "IdScopeSubactivity":3,
+                     "NameScopeSubactivity":"Ampliación y/o construcción de la malla de puesta a tierra."
+                  },
+                  {
+                     "IdScopeSubactivity":4,
+                     "NameScopeSubactivity":"En caso de requerirse, diseño de refuerzo de la base de la base del transformador."
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -112,7 +190,21 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1409155"
+               "VrUnit":"1409155",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":5,
+                     "NameScopeSubactivity":"Levantamiento y verificación dimensional del espacio disponible para ubicación del nuevo equipo. Verificación de distancias de seguridad a porticos y muros. Si el equipo a instalar no es nuevo debe incluirse el levantamiento de dimensiones básicas del transformador a instalar en la S/E donde se encuentre ubicado."
+                  },
+                  {
+                     "IdScopeSubactivity":6,
+                     "NameScopeSubactivity":"Levantamiento de la estructura de salida de cables de MT o conexión a pórtico de 34,5 kV (según aplique). Diseño mecánico con planos de taller de la nueva estructura y/o modificación de la conexión en caso de requerirse."
+                  },
+                  {
+                     "IdScopeSubactivity":7,
+                     "NameScopeSubactivity":"Levantamiento En casa de control y ubicación del tablero de regulación del nuevo transformador a instalar."
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -120,7 +212,13 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"5691800"
+               "VrUnit":"5691800",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":8,
+                     "NameScopeSubactivity":"Diseño mecánico completo para instalación de nuevo transformador incluyendo: conexiones de PAT, conexiones de neutro, conexiones en potencia por AT y MT (incluyendo calibres de cables y conectores)."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -128,7 +226,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"2135859"
+               "VrUnit":"2135859",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":9,
+                     "NameScopeSubactivity":"Levantamiento del gabinete de control del transformador (en caso que no sea un equipo nuevo) y diseño de conexiones al tablero de regulación."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -136,7 +240,13 @@
                "IdSubActivity":3,
                "NameSubactivity":"Diseño detallado, planos y Protocolo de energización según ingeniería realizada",
                "Cant":0,
-               "VrUnit":"12440649"
+               "VrUnit":"12440649",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":10,
+                     "NameScopeSubactivity":"Diseño eléctrico para conexión del nuevo transformador y su integración al tablero de control y protección existente, incluyendo las señales a centro de control."
+                  }
+                  ]
             },
             {
                "IdActivity":4,
@@ -144,7 +254,13 @@
                "IdSubActivity":4,
                "NameSubactivity":"Elaboración de Planos AS BUILT",
                "Cant":0,
-               "VrUnit":"1411426"
+               "VrUnit":"1411426",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Elaboración de planos ASBUILT de acuerdo a planos rojo-verde suministrados por CODENSA."
+                  }
+                  ]
             }
          ]
       },
@@ -161,7 +277,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"870000"
+               "VrUnit":"870000",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":1,
+                     "NameScopeSubactivity":"Levantamiento topográfico del sitio de ubicación del nuevo módulo dentro de la S/E."
+                  }
+                  ]
             },
             {
                "IdActivity":1,
@@ -169,7 +291,18 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"2513715"
+               "VrUnit":"2513715",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":2,
+                     "NameScopeSubactivity":"Diseño civil de las bases de equipos de potencia y bases de pórticos en caso de requerirse una ampliación del existente."
+                  },
+                  {
+                     "IdScopeSubactivity":4,
+                     "NameScopeSubactivity":"En caso de requerirse, diseño de refuerzo de la base de la base del transformador."
+                  }
+                  ]
+            },
             },
             {
                "IdActivity":2,
@@ -177,7 +310,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1597512"
+               "VrUnit":"1597512",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":8,
+                     "NameScopeSubactivity":"Diseño mecánico completo para instalación de nuevo transformador incluyendo: conexiones de PAT, conexiones de neutro, conexiones en potencia por AT y MT (incluyendo calibres de cables y conectores)."
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -185,7 +324,13 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"1846014"
+               "VrUnit":"1846014",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":8,
+                     "NameScopeSubactivity":"Diseño mecánico completo para instalación de nuevo transformador incluyendo: conexiones de PAT, conexiones de neutro, conexiones en potencia por AT y MT (incluyendo calibres de cables y conectores)."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -193,7 +338,13 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1065008"
+               "VrUnit":"1065008",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":9,
+                     "NameScopeSubactivity":"Levantamiento del gabinete de control del transformador (en caso que no sea un equipo nuevo) y diseño de conexiones al tablero de regulación."
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -201,7 +352,13 @@
                "IdSubActivity":3,
                "NameSubactivity":"Diseño detallado, planos y Protocolo de energización según ingeniería realizada",
                "Cant":0,
-               "VrUnit":"6133306"
+               "VrUnit":"6133306",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":10,
+                     "NameScopeSubactivity":"Diseño eléctrico para conexión del nuevo transformador y su integración al tablero de control y protección existente, incluyendo las señales a centro de control."
+                  }
+                  ]
             },
             {
                "IdActivity":4,
@@ -209,7 +366,13 @@
                "IdSubActivity":4,
                "NameSubactivity":"Elaboración de Planos AS BUILT",
                "Cant":0,
-               "VrUnit":"771054"
+               "VrUnit":"771054",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Elaboración de planos ASBUILT de acuerdo a planos rojo-verde suministrados por CODENSA."
+                  }
+                  ]
             }
          ]
       },
@@ -226,7 +389,17 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"2578936"
+               "VrUnit":"2578936",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Levantamiento"
+                  },
+                  {
+                     "IdScopeSubactivity":12,
+                     "NameScopeSubactivity":"Levantamiento 2"
+                  }
+                  ]
             },
             {
                "IdActivity":1,
@@ -234,7 +407,17 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"4472129"
+               "VrUnit":"4472129",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":13,
+                     "NameScopeSubactivity":"Diseño "
+                  },
+                  {
+                     "IdScopeSubactivity":14,
+                     "NameScopeSubactivity":"Diseño 2"
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -242,7 +425,17 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1409155"
+               "VrUnit":"1409155",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Levantamiento"
+                  },
+                  {
+                     "IdScopeSubactivity":12,
+                     "NameScopeSubactivity":"Levantamiento 1"
+                  }
+                  ]
             },
             {
                "IdActivity":2,
@@ -250,7 +443,17 @@
                "IdSubActivity":2,
                "NameSubactivity":"Diseño detallado y planos",
                "Cant":0,
-               "VrUnit":"5091800"
+               "VrUnit":"5091800",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":13,
+                     "NameScopeSubactivity":"Diseño "
+                  },
+                  {
+                     "IdScopeSubactivity":14,
+                     "NameScopeSubactivity":"Diseño 2"
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -258,7 +461,17 @@
                "IdSubActivity":1,
                "NameSubactivity":"Levantamiento y actualización de información",
                "Cant":0,
-               "VrUnit":"1135859"
+               "VrUnit":"1135859",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Levantamiento"
+                  },
+                  {
+                     "IdScopeSubactivity":12,
+                     "NameScopeSubactivity":"Levantamiento 1"
+                  }
+                  ]
             },
             {
                "IdActivity":3,
@@ -266,7 +479,17 @@
                "IdSubActivity":3,
                "NameSubactivity":"Diseño detallado, planos y Protocolo de energización según ingeniería realizada",
                "Cant":0,
-               "VrUnit":"10440649"
+               "VrUnit":"10440649",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":13,
+                     "NameScopeSubactivity":"Diseño "
+                  },
+                  {
+                     "IdScopeSubactivity":14,
+                     "NameScopeSubactivity":"Diseño 2"
+                  }
+                  ]
             },
             {
                "IdActivity":4,
@@ -274,7 +497,13 @@
                "IdSubActivity":4,
                "NameSubactivity":"Elaboración de Planos AS BUILT",
                "Cant":0,
-               "VrUnit":"1411426"
+               "VrUnit":"1411426",
+               "ScopeSubactivity":[
+                  {
+                     "IdScopeSubactivity":11,
+                     "NameScopeSubactivity":"Elaboración de planos ASBUILT de acuerdo a planos rojo-verde suministrados por CODENSA."
+                  }
+                  ]
             }
          ]
       }
